@@ -1,0 +1,9 @@
+The High score is made by a "circular" movement between the
+1) Score
+2)TopScore
+3) Temp
+I think that the process is:
+1) Your score ----> The Top Score
+2) The Top Score ----> In a temporary
+3) And susbitute Temporary -----> to score
+And restart from 1

@@ -1,0 +1,6 @@
+1) Create a value that take count of the lenght of that direction (how many steps in this direction LEFT to change direction)
+2) In order to make the "lenght counter" work I need to put something that count the steps.Maybe a while loop (x>0; x--) and if(x==0){cur_step++}
+3) Put in the switch statement something that say "if (lenght == 0){direction = "left"}
+
+NOTES:
+Make an array [nunmber that I nedd] for count the steps

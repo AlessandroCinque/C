@@ -1,0 +1,1 @@
+Make a zompie look like the player and use the same system to make it move!!!!!!!
